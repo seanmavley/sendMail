@@ -1,6 +1,6 @@
 # Before Deploy
 
-Update the `key` in `__main__.py` to your sendgrid API key before deploying via CLI
+Update the `key` in `__main__.py` to your sendgrid API key before deploying via doctl CLI
 
 I stripped down what is found here, hoping for the most bare minimum of code to use for a workshop
 
